@@ -2,7 +2,7 @@
 
 ![Wombats Banner](https://imgur.com/9mdY3Jw.png)
 
-**A World's First: Community-Owned Lottery Protocol Where Minting Adorable Wombat NFTs Creates Both Unique Collectibles and Real Revenue Sharing Opportunities for Holders**
+**A World's First: Community-owned lottery protocol where minting wombat NFTs creates both unique collectibles and real revenue sharing opportunities for holders**
 
 ## Collection Overview
 
