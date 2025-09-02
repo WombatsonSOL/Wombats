@@ -1,0 +1,39 @@
+{
+  "name": " #530",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/530.png",
+  "dna": "279579c48e28d84bc239b47fd695962a3e9972c8",
+  "edition": 530,
+  "date": 1708126624982,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "gray"
+    },
+    {
+      "trait_type": "fur",
+      "value": "gray"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "hawaiian tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "fast food cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "grass"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

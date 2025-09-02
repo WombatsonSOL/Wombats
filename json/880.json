@@ -1,0 +1,39 @@
+{
+  "name": " #880",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/880.png",
+  "dna": "6f060ba455daf755cde9c4b0fdbfea1490480051",
+  "edition": 880,
+  "date": 1708126624792,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "fur",
+      "value": "burgundy"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "chain"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "bandana"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": " #86",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/86.png",
+  "dna": "24194f498a67a867934e8b7983e20c8effb1b87d",
+  "edition": 86,
+  "date": 1708126612159,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "fur",
+      "value": "brown"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "flannel tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "3D glasses"
+    },
+    {
+      "trait_type": "hat",
+      "value": "red cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

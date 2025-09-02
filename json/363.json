@@ -1,0 +1,39 @@
+{
+  "name": " #363",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/363.png",
+  "dna": "e776c4b1f3f7f27b2e2ef667271e5977c3fb8b99",
+  "edition": 363,
+  "date": 1708126634048,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "gray"
+    },
+    {
+      "trait_type": "fur",
+      "value": "pink"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "flannel tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "red"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "backwards cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "bubble gum"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": " #412",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/412.png",
+  "dna": "31881b2c097f42d9ef9f025d3d3929b00842cbcb",
+  "edition": 412,
+  "date": 1708126641888,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "white"
+    },
+    {
+      "trait_type": "fur",
+      "value": "gray"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "suit"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "cowboy hat"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "cig"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": " #741",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/741.png",
+  "dna": "8e74d7d32abb99cf4492ef6759d401c7cdb550aa",
+  "edition": 741,
+  "date": 1708126632974,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "green"
+    },
+    {
+      "trait_type": "fur",
+      "value": "pink"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "W tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "fast food cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

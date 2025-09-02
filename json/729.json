@@ -1,0 +1,39 @@
+{
+  "name": " #729",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/729.png",
+  "dna": "ecb1b64da7952898670a3090fdf4e01415048dcf",
+  "edition": 729,
+  "date": 1708126646313,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "fur",
+      "value": "cream"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "suit"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "red"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "cowboy hat"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "grass"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

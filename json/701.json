@@ -1,0 +1,39 @@
+{
+  "name": " #701",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/701.png",
+  "dna": "f5a699a4114a58114efe4c6fdb2a5c38e350dc4e",
+  "edition": 701,
+  "date": 1708126650441,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "orange"
+    },
+    {
+      "trait_type": "fur",
+      "value": "brown"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "none"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "spectacles"
+    },
+    {
+      "trait_type": "hat",
+      "value": "bandana"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "grass"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

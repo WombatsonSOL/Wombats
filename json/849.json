@@ -1,0 +1,39 @@
+{
+  "name": " #849",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/849.png",
+  "dna": "88dfdfb46b69a7a7d2aa617f957034172dd088d4",
+  "edition": 849,
+  "date": 1708126621893,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "fur",
+      "value": "gray"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "chain"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "none"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

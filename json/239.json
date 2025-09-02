@@ -1,0 +1,39 @@
+{
+  "name": " #239",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/239.png",
+  "dna": "e581d212b8e36129edc984afa96c9102c2e56eb2",
+  "edition": 239,
+  "date": 1708126656253,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "fur",
+      "value": "cream"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "wings"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "cowboy hat"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "grass"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

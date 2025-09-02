@@ -1,0 +1,39 @@
+{
+  "name": " #476",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/476.png",
+  "dna": "2e07205e6da55a2aea1b0dd2aa30c96f148c00c8",
+  "edition": 476,
+  "date": 1708126637942,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "fur",
+      "value": "burgundy"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "suit"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "none"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "bubble gum"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

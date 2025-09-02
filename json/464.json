@@ -1,0 +1,39 @@
+{
+  "name": " #464",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/464.png",
+  "dna": "4acac9f4201686fae5565391cb86e4747d7f31c0",
+  "edition": 464,
+  "date": 1708126642611,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "gray"
+    },
+    {
+      "trait_type": "fur",
+      "value": "gray"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "chain"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "fast food cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

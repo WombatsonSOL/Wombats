@@ -1,0 +1,39 @@
+{
+  "name": " #711",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/711.png",
+  "dna": "e550015b6104690914f2f4a9aaf650f1afcf004b",
+  "edition": 711,
+  "date": 1708126635074,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "green"
+    },
+    {
+      "trait_type": "fur",
+      "value": "burgundy"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "none"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "cowboy hat"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

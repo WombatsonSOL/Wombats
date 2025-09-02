@@ -1,0 +1,39 @@
+{
+  "name": " #930",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/930.png",
+  "dna": "c1155f0f251a64f11a1ec442504f8ce5d07d0984",
+  "edition": 930,
+  "date": 1708126652551,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "fur",
+      "value": "pink"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "none"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "none"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "grass"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

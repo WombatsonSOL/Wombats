@@ -1,0 +1,39 @@
+{
+  "name": " #850",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/850.png",
+  "dna": "7749806e7ecac4ac9688a4d4661b715271dc46a5",
+  "edition": 850,
+  "date": 1708126651276,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "fur",
+      "value": "burgundy"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "hawaiian tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "red"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "spectacles"
+    },
+    {
+      "trait_type": "hat",
+      "value": "cowboy hat"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "cig"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

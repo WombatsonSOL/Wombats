@@ -1,0 +1,39 @@
+{
+  "name": " #820",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/820.png",
+  "dna": "a7b347cb3eef7ed4fb6161f53b4ed13512b35b67",
+  "edition": 820,
+  "date": 1708126611319,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "orange"
+    },
+    {
+      "trait_type": "fur",
+      "value": "brown"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "none"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "cowboy hat"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

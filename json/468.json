@@ -1,0 +1,39 @@
+{
+  "name": " #468",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/468.png",
+  "dna": "3e7d0a7f82207fbd10a1fe3c08f03d14a99beaee",
+  "edition": 468,
+  "date": 1708126640638,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "white"
+    },
+    {
+      "trait_type": "fur",
+      "value": "burgundy"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "W tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "none"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

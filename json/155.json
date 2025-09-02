@@ -1,0 +1,39 @@
+{
+  "name": " #155",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/155.png",
+  "dna": "c374e062c744db2d8d0b2addc0e5810dfae40bc2",
+  "edition": 155,
+  "date": 1708126631439,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "green"
+    },
+    {
+      "trait_type": "fur",
+      "value": "brown"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "suit"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "red"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "headphones"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

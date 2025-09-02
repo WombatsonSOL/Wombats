@@ -1,0 +1,39 @@
+{
+  "name": " #284",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/284.png",
+  "dna": "10c197fc5a66c0337b0074583282d96df0425c5a",
+  "edition": 284,
+  "date": 1708126617578,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "gray"
+    },
+    {
+      "trait_type": "fur",
+      "value": "blue"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "none"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "none"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "bubble gum"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

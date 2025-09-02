@@ -1,0 +1,39 @@
+{
+  "name": " #846",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/846.png",
+  "dna": "ba41221082986a1f71d236ccac329ec41ea43c60",
+  "edition": 846,
+  "date": 1708126653648,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "white"
+    },
+    {
+      "trait_type": "fur",
+      "value": "cream"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "none"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "fast food cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "bubble gum"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

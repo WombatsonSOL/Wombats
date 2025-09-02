@@ -1,0 +1,39 @@
+{
+  "name": " #98",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/98.png",
+  "dna": "41156b9b38207be7e4984b0db62869ec63da19cc",
+  "edition": 98,
+  "date": 1708126632131,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "fur",
+      "value": "burgundy"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "wings"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "backwards cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

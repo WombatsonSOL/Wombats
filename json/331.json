@@ -1,0 +1,39 @@
+{
+  "name": " #331",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/331.png",
+  "dna": "91cb0c9a87032f56c1aae2c38fee8cea39edacb4",
+  "edition": 331,
+  "date": 1708126611173,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "fur",
+      "value": "burgundy"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "W tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "fast food cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

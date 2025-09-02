@@ -1,0 +1,39 @@
+{
+  "name": " #788",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/788.png",
+  "dna": "642092dfd47f64f754784d211487f17a472e82ce",
+  "edition": 788,
+  "date": 1708126652786,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "green"
+    },
+    {
+      "trait_type": "fur",
+      "value": "blue"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "W tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "none"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

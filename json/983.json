@@ -1,0 +1,39 @@
+{
+  "name": " #983",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/983.png",
+  "dna": "faffcf9b574404477f625168f3fdfc26dcde302b",
+  "edition": 983,
+  "date": 1708126647218,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "fur",
+      "value": "brown"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "hawaiian tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "red"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "headphones"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "grass"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": " #645",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/645.png",
+  "dna": "66d148db1987faaf3638f381a75d23a890bcc293",
+  "edition": 645,
+  "date": 1708126616130,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "green"
+    },
+    {
+      "trait_type": "fur",
+      "value": "gray"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "W tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "none"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

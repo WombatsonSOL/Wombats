@@ -1,0 +1,39 @@
+{
+  "name": " #802",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/802.png",
+  "dna": "a4e63d807f8a6428ea8d28af7d1d32c13f5cdb3d",
+  "edition": 802,
+  "date": 1708126632636,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "fur",
+      "value": "gray"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "none"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "3D glasses"
+    },
+    {
+      "trait_type": "hat",
+      "value": "sailor cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "cig"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

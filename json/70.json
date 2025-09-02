@@ -1,0 +1,39 @@
+{
+  "name": " #70",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/70.png",
+  "dna": "46008b06735e84e8d8625d0c685ddf4b032f0f16",
+  "edition": 70,
+  "date": 1708126626862,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "white"
+    },
+    {
+      "trait_type": "fur",
+      "value": "pink"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "chain"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "red cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": " #493",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/493.png",
+  "dna": "9afb8adbd50f8120430f6de82f63a356b2a0fc99",
+  "edition": 493,
+  "date": 1708126630742,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "fur",
+      "value": "pink"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "hawaiian tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "3D glasses"
+    },
+    {
+      "trait_type": "hat",
+      "value": "sailor cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

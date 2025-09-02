@@ -1,0 +1,39 @@
+{
+  "name": " #805",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/805.png",
+  "dna": "ee726a4717975df82590d5e162bae56e2e1d7e73",
+  "edition": 805,
+  "date": 1708126637287,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "gray"
+    },
+    {
+      "trait_type": "fur",
+      "value": "gray"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "wings"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "headphones"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "cig"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

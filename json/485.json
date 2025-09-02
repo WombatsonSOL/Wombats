@@ -1,0 +1,39 @@
+{
+  "name": " #485",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/485.png",
+  "dna": "7a20cf01f871dbf19a39133cdb1285a90864f282",
+  "edition": 485,
+  "date": 1708126622313,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "fur",
+      "value": "cream"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "W tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "red"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "none"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

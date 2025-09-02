@@ -1,0 +1,39 @@
+{
+  "name": " #777",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/777.png",
+  "dna": "9bc613972a1603a5042a4ad54f83312bc13471ec",
+  "edition": 777,
+  "date": 1708126654242,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "fur",
+      "value": "burgundy"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "none"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "fancy shades"
+    },
+    {
+      "trait_type": "hat",
+      "value": "fast food cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

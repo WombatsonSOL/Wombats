@@ -1,0 +1,39 @@
+{
+  "name": " #302",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/302.png",
+  "dna": "58d34001468ab9f9519c1effe5a31df1ccccc664",
+  "edition": 302,
+  "date": 1708126629817,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "white"
+    },
+    {
+      "trait_type": "fur",
+      "value": "gray"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "suit"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "3D glasses"
+    },
+    {
+      "trait_type": "hat",
+      "value": "headphones"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "cig"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

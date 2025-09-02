@@ -1,0 +1,39 @@
+{
+  "name": " #494",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/494.png",
+  "dna": "ae98dbccce58e9a644bfa3db8056ad5f00a878d2",
+  "edition": 494,
+  "date": 1708126631762,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "orange"
+    },
+    {
+      "trait_type": "fur",
+      "value": "burgundy"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "suit"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "none"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": " #217",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/217.png",
+  "dna": "894be078fdd4d0ff2aed62ddb4de4ca1595ca5a7",
+  "edition": 217,
+  "date": 1708126647988,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "fur",
+      "value": "brown"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "flannel tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "red"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "cowboy hat"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "cig"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": " #825",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/825.png",
+  "dna": "d4bc6529c5f04f6d996644ec2d6be6b52b7ca7ac",
+  "edition": 825,
+  "date": 1708126640684,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "fur",
+      "value": "cream"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "chain"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "spectacles"
+    },
+    {
+      "trait_type": "hat",
+      "value": "backwards cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

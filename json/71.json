@@ -1,0 +1,39 @@
+{
+  "name": " #71",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/71.png",
+  "dna": "11fd05b3771ab961da3f93890c66223953ebe1ef",
+  "edition": 71,
+  "date": 1708126629956,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "fur",
+      "value": "cream"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "chain"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "backwards cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "bubble gum"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

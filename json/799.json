@@ -1,0 +1,39 @@
+{
+  "name": " #799",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/799.png",
+  "dna": "ba770cb50ddf2a514b168fce4fd1d5b60baeda47",
+  "edition": 799,
+  "date": 1708126623528,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "fur",
+      "value": "gray"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "none"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "sailor cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "bubble gum"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

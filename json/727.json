@@ -1,0 +1,39 @@
+{
+  "name": " #727",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/727.png",
+  "dna": "878c77ef11145f5cf000f0d73264c3d054db5395",
+  "edition": 727,
+  "date": 1708126637523,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "fur",
+      "value": "burgundy"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "suit"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "none"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "bubble gum"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

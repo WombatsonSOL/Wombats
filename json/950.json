@@ -1,0 +1,39 @@
+{
+  "name": " #950",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/950.png",
+  "dna": "b3e40178f77fa37c5642aae3f4257c9187257fae",
+  "edition": 950,
+  "date": 1708126651692,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "green"
+    },
+    {
+      "trait_type": "fur",
+      "value": "gray"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "chain"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "backwards cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

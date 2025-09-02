@@ -1,0 +1,39 @@
+{
+  "name": " #518",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/518.png",
+  "dna": "9fbe3a6f9845d530f11ac4d46cb4f3dfb7ceb046",
+  "edition": 518,
+  "date": 1708126627981,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "fur",
+      "value": "brown"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "W tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "none"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "bubble gum"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

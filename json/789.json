@@ -1,0 +1,39 @@
+{
+  "name": " #789",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/789.png",
+  "dna": "7e54301abbb64f9621eab5f6054aed4d6d918e7a",
+  "edition": 789,
+  "date": 1708126635866,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "white"
+    },
+    {
+      "trait_type": "fur",
+      "value": "pink"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "suit"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "red"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "sailor cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

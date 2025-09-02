@@ -1,0 +1,39 @@
+{
+  "name": " #599",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/599.png",
+  "dna": "110a72f45b254f587f56645b3a956d8f632a43df",
+  "edition": 599,
+  "date": 1708126608792,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "fur",
+      "value": "burgundy"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "suit"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "fast food cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "cig"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": " #187",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/187.png",
+  "dna": "9e4aa7962b1b095ea9b0e3ba3f5ca721107adeb0",
+  "edition": 187,
+  "date": 1708126638684,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "orange"
+    },
+    {
+      "trait_type": "fur",
+      "value": "gray"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "wings"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "red"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "red cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": " #836",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/836.png",
+  "dna": "2943ffb3bb5944b703caf02cd964afce5482e45c",
+  "edition": 836,
+  "date": 1708126651918,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "white"
+    },
+    {
+      "trait_type": "fur",
+      "value": "pink"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "W tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "fancy shades"
+    },
+    {
+      "trait_type": "hat",
+      "value": "headphones"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": " #501",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/501.png",
+  "dna": "f5efb6db09bc39cfb02c6b974a5fa0a2b2598606",
+  "edition": 501,
+  "date": 1708126654334,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "fur",
+      "value": "gray"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "none"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "red"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "3D glasses"
+    },
+    {
+      "trait_type": "hat",
+      "value": "headphones"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "grass"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": " #720",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/720.png",
+  "dna": "ea0962c1e4c6d67efc84928a5cb53fc05f23040a",
+  "edition": 720,
+  "date": 1708126647437,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "orange"
+    },
+    {
+      "trait_type": "fur",
+      "value": "brown"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "none"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "fast food cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "grass"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": " #976",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/976.png",
+  "dna": "6f3c4f3a457ad471d9b73483eb75726dc22b337f",
+  "edition": 976,
+  "date": 1708126617388,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "fur",
+      "value": "brown"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "W tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "3D glasses"
+    },
+    {
+      "trait_type": "hat",
+      "value": "backwards cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

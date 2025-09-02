@@ -1,0 +1,39 @@
+{
+  "name": " #810",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/810.png",
+  "dna": "5e9c8aa3a7a7dab31c3a78309565d99afe02dbbe",
+  "edition": 810,
+  "date": 1708126655209,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "gray"
+    },
+    {
+      "trait_type": "fur",
+      "value": "gray"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "none"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "backwards cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

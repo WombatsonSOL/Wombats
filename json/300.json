@@ -1,0 +1,39 @@
+{
+  "name": " #300",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/300.png",
+  "dna": "dc9b63bdb6e515b56955c0248ab06851b3a8daab",
+  "edition": 300,
+  "date": 1708126651226,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "fur",
+      "value": "gray"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "W tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "fast food cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "bubble gum"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

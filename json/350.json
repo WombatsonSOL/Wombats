@@ -1,0 +1,39 @@
+{
+  "name": " #350",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/350.png",
+  "dna": "b11638c5b32505ca104e936c7f15d6f70492d1a1",
+  "edition": 350,
+  "date": 1708126644588,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "fur",
+      "value": "blue"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "suit"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "cowboy hat"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "grass"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": " #35",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/35.png",
+  "dna": "0955c4e14b3c5157099e2be68877e319b2badbe6",
+  "edition": 35,
+  "date": 1708126639796,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "fur",
+      "value": "burgundy"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "flannel tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "sailor cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "bubble gum"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

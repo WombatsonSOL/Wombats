@@ -1,0 +1,39 @@
+{
+  "name": " #498",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/498.png",
+  "dna": "f8513171c9e2c00faea84b3e660a4ae552901b58",
+  "edition": 498,
+  "date": 1708126634977,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "white"
+    },
+    {
+      "trait_type": "fur",
+      "value": "pink"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "hawaiian tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "red cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

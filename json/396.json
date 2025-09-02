@@ -1,0 +1,39 @@
+{
+  "name": " #396",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/396.png",
+  "dna": "9d6c10e75c049250edd5afe7b684ae3293beb4c1",
+  "edition": 396,
+  "date": 1708126645118,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "fur",
+      "value": "burgundy"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "W tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "none"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

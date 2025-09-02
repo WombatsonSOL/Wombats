@@ -1,0 +1,39 @@
+{
+  "name": " #940",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/940.png",
+  "dna": "a28476a4d7fd9008e940a1b87bfd65382a93b07e",
+  "edition": 940,
+  "date": 1708126629677,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "purple"
+    },
+    {
+      "trait_type": "fur",
+      "value": "pink"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "W tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "sailor cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

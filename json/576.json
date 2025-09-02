@@ -1,0 +1,39 @@
+{
+  "name": " #576",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/576.png",
+  "dna": "ba531513d7959f91cdd09b0780960d601326d03a",
+  "edition": 576,
+  "date": 1708126631622,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "fur",
+      "value": "burgundy"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "W tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "cowboy hat"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "bubble gum"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": " #479",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/479.png",
+  "dna": "d61bae6e3b7d7695679785fcbb44c29f5159dcae",
+  "edition": 479,
+  "date": 1708126637896,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "gray"
+    },
+    {
+      "trait_type": "fur",
+      "value": "brown"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "suit"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "red"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "3D glasses"
+    },
+    {
+      "trait_type": "hat",
+      "value": "fast food cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

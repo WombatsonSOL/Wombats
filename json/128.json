@@ -1,0 +1,39 @@
+{
+  "name": " #128",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/128.png",
+  "dna": "90d7b00ca9a5d824b3d4470aba7feac938fb9002",
+  "edition": 128,
+  "date": 1708126637102,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "purple"
+    },
+    {
+      "trait_type": "fur",
+      "value": "brown"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "W tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "3D glasses"
+    },
+    {
+      "trait_type": "hat",
+      "value": "cowboy hat"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

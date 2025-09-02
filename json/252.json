@@ -1,0 +1,39 @@
+{
+  "name": " #252",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/252.png",
+  "dna": "64e738c4b20f93fbeb1bebd669002a9ea627d0f4",
+  "edition": 252,
+  "date": 1708126616924,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "fur",
+      "value": "burgundy"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "none"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "red"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "spectacles"
+    },
+    {
+      "trait_type": "hat",
+      "value": "crown"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

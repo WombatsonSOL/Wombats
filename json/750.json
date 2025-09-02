@@ -1,0 +1,39 @@
+{
+  "name": " #750",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/750.png",
+  "dna": "415565ac7984788346357bd51ac9f167a03fbb1c",
+  "edition": 750,
+  "date": 1708126609445,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "fur",
+      "value": "blue"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "W tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "cowboy hat"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

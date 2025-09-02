@@ -1,0 +1,39 @@
+{
+  "name": " #622",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/622.png",
+  "dna": "2344f45b8ff05c9429c0b516f8ffe894302ea0b2",
+  "edition": 622,
+  "date": 1708126640405,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "purple"
+    },
+    {
+      "trait_type": "fur",
+      "value": "brown"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "suit"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "sailor cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "grass"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

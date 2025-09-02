@@ -1,0 +1,39 @@
+{
+  "name": " #340",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/340.png",
+  "dna": "ba13b68973da3cf1212d3ac08b51808dc7071387",
+  "edition": 340,
+  "date": 1708126627700,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "gray"
+    },
+    {
+      "trait_type": "fur",
+      "value": "blue"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "none"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "headphones"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "cig"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

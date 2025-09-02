@@ -1,0 +1,39 @@
+{
+  "name": " #548",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/548.png",
+  "dna": "aab94f6c6692fe438cdce45a9b9a8bc7dfe76c0c",
+  "edition": 548,
+  "date": 1708126643173,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "green"
+    },
+    {
+      "trait_type": "fur",
+      "value": "gray"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "none"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "cowboy hat"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "bubble gum"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

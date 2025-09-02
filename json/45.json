@@ -1,0 +1,39 @@
+{
+  "name": " #45",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/45.png",
+  "dna": "8172ecbc01d728de7808b061aaba24eb66b4e47a",
+  "edition": 45,
+  "date": 1708126635213,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "fur",
+      "value": "pink"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "suit"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "red"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "cowboy hat"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "grass"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

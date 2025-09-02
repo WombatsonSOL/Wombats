@@ -1,0 +1,39 @@
+{
+  "name": " #838",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/838.png",
+  "dna": "819465ea3863b15fd515433feb34aa11b4929137",
+  "edition": 838,
+  "date": 1708126650724,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "purple"
+    },
+    {
+      "trait_type": "fur",
+      "value": "burgundy"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "chain"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "red"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "fast food cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "grass"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

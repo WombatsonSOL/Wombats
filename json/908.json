@@ -1,0 +1,39 @@
+{
+  "name": " #908",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/908.png",
+  "dna": "64f24c32317b35391a5d355f6dc5a35e4b34c91d",
+  "edition": 908,
+  "date": 1708126636515,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "fur",
+      "value": "gray"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "chain"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "red"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "none"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "cig"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

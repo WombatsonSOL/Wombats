@@ -1,0 +1,39 @@
+{
+  "name": " #579",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/579.png",
+  "dna": "8bd11a2c722c6d33e5052f63803594bc555f95a2",
+  "edition": 579,
+  "date": 1708126616035,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "gray"
+    },
+    {
+      "trait_type": "fur",
+      "value": "cream"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "hawaiian tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "headphones"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "bubble gum"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": " #775",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/775.png",
+  "dna": "fb85b3523d7124e8ba65a075ab05d662763e809b",
+  "edition": 775,
+  "date": 1708126614231,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "fur",
+      "value": "blue"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "none"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "cowboy hat"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "bubble gum"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

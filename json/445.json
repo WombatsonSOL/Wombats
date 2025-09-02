@@ -1,0 +1,39 @@
+{
+  "name": " #445",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/445.png",
+  "dna": "40130583ad54e859699e1583b83382ba0a78b736",
+  "edition": 445,
+  "date": 1708126612399,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "purple"
+    },
+    {
+      "trait_type": "fur",
+      "value": "blue"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "none"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "backwards cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

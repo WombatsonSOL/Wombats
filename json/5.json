@@ -1,0 +1,39 @@
+{
+  "name": " #5",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/5.png",
+  "dna": "5e64ce1ede32dd6145a1ad8139bc95c143991959",
+  "edition": 5,
+  "date": 1708126641987,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "gray"
+    },
+    {
+      "trait_type": "fur",
+      "value": "burgundy"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "none"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "cowboy hat"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "bubble gum"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

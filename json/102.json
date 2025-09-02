@@ -1,0 +1,39 @@
+{
+  "name": " #102",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/102.png",
+  "dna": "92f2d39fba20e395859e5ed51173d0d78b9ba836",
+  "edition": 102,
+  "date": 1708126637241,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "fur",
+      "value": "gray"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "wings"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "spectacles"
+    },
+    {
+      "trait_type": "hat",
+      "value": "cowboy hat"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": " #767",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/767.png",
+  "dna": "f0469cd52f0d35ff4d7006294d216515b3f258a0",
+  "edition": 767,
+  "date": 1708126642088,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "fur",
+      "value": "burgundy"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "wings"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "headphones"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

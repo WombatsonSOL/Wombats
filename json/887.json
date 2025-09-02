@@ -1,0 +1,39 @@
+{
+  "name": " #887",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/887.png",
+  "dna": "6448025fd4c608669b4de8bb280cc65d3e6c2e18",
+  "edition": 887,
+  "date": 1708126652322,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "gray"
+    },
+    {
+      "trait_type": "fur",
+      "value": "cream"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "hawaiian tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "headphones"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

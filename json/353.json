@@ -1,0 +1,39 @@
+{
+  "name": " #353",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/353.png",
+  "dna": "510b9b072536c7309705ff3dcc6e01e8e898d44b",
+  "edition": 353,
+  "date": 1708126608843,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "fur",
+      "value": "brown"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "wings"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "none"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

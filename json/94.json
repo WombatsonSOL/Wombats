@@ -1,0 +1,39 @@
+{
+  "name": " #94",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/94.png",
+  "dna": "9bc06eb764013c996c4bcad1795efe69527fa84c",
+  "edition": 94,
+  "date": 1708126634930,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "fur",
+      "value": "gray"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "hawaiian tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "3D glasses"
+    },
+    {
+      "trait_type": "hat",
+      "value": "bandana"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

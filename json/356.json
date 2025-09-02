@@ -1,0 +1,39 @@
+{
+  "name": " #356",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/356.png",
+  "dna": "4ba14efc64999b91dd55d583b8466dacf7dba660",
+  "edition": 356,
+  "date": 1708126636239,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "gray"
+    },
+    {
+      "trait_type": "fur",
+      "value": "gray"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "hawaiian tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "none"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "grass"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

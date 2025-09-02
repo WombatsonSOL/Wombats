@@ -1,0 +1,39 @@
+{
+  "name": " #407",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/407.png",
+  "dna": "a405a72ce7d3752e3758d3d48c6ce764ad282160",
+  "edition": 407,
+  "date": 1708126641612,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "white"
+    },
+    {
+      "trait_type": "fur",
+      "value": "cream"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "hawaiian tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "backwards cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

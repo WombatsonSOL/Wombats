@@ -1,0 +1,39 @@
+{
+  "name": " #144",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/144.png",
+  "dna": "6d6b6fa98b2df80d987c154a57c3222ac101a69a",
+  "edition": 144,
+  "date": 1708126622734,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "white"
+    },
+    {
+      "trait_type": "fur",
+      "value": "gray"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "W tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "none"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

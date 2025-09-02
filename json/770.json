@@ -1,0 +1,39 @@
+{
+  "name": " #770",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/770.png",
+  "dna": "1ab4ea49b7fdbb99ec74a74485b3a47c714c70cb",
+  "edition": 770,
+  "date": 1708126648220,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "white"
+    },
+    {
+      "trait_type": "fur",
+      "value": "brown"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "chain"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "fancy shades"
+    },
+    {
+      "trait_type": "hat",
+      "value": "bandana"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": " #270",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/270.png",
+  "dna": "2c580185c7e137e6c5c77f761553c2a4e8c606ac",
+  "edition": 270,
+  "date": 1708126654844,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "fur",
+      "value": "cream"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "none"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "red"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "none"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "cig"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": " #472",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/472.png",
+  "dna": "347dda521488be3ee80cb4d79229c50a93ccbb82",
+  "edition": 472,
+  "date": 1708126630975,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "purple"
+    },
+    {
+      "trait_type": "fur",
+      "value": "blue"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "chain"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "bandana"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": " #465",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/465.png",
+  "dna": "fc5e76ddb4c65d0bcbc02a1d68c9cc419e384502",
+  "edition": 465,
+  "date": 1708126630882,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "fur",
+      "value": "cream"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "hawaiian tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "headphones"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "cig"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

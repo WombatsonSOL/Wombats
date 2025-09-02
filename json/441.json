@@ -1,0 +1,39 @@
+{
+  "name": " #441",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/441.png",
+  "dna": "03ba92af0325f2691c0b1d7882b47466a2ba9d17",
+  "edition": 441,
+  "date": 1708126650349,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "fur",
+      "value": "gray"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "flannel tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "red cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "bubble gum"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

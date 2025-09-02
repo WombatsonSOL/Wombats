@@ -1,0 +1,39 @@
+{
+  "name": " #161",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/161.png",
+  "dna": "bbd0d67029c326b6adfc85d5476b8bda8e5a7cbe",
+  "edition": 161,
+  "date": 1708126636331,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "orange"
+    },
+    {
+      "trait_type": "fur",
+      "value": "cream"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "flannel tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "fancy shades"
+    },
+    {
+      "trait_type": "hat",
+      "value": "bandana"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "grass"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

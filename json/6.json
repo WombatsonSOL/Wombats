@@ -1,0 +1,39 @@
+{
+  "name": " #6",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/6.png",
+  "dna": "3e91fff33daf0ec0a7dcf092f4cc602c1421ae61",
+  "edition": 6,
+  "date": 1708126634417,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "white"
+    },
+    {
+      "trait_type": "fur",
+      "value": "cream"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "wings"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "cowboy hat"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

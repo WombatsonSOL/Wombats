@@ -1,0 +1,39 @@
+{
+  "name": " #32",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/32.png",
+  "dna": "12d6bfb99c1c8d4163a3929c93e99e2d3258f9b6",
+  "edition": 32,
+  "date": 1708126628118,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "fur",
+      "value": "pink"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "chain"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "fast food cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "cig"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

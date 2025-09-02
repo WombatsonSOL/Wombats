@@ -1,0 +1,39 @@
+{
+  "name": " #222",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/222.png",
+  "dna": "52ac8ba2ca269c31e48cb256e23c0c9ba0843a0d",
+  "edition": 222,
+  "date": 1708126640121,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "purple"
+    },
+    {
+      "trait_type": "fur",
+      "value": "blue"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "wings"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "crown"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

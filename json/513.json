@@ -1,0 +1,39 @@
+{
+  "name": " #513",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/513.png",
+  "dna": "1fe621028b94a3485d32881a43697dea83bb4840",
+  "edition": 513,
+  "date": 1708126628661,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "fur",
+      "value": "gray"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "W tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "sailor cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "grass"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

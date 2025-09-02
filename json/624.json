@@ -1,0 +1,39 @@
+{
+  "name": " #624",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/624.png",
+  "dna": "289c0956fa8307774186cdd2d845856afe276401",
+  "edition": 624,
+  "date": 1708126654150,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "purple"
+    },
+    {
+      "trait_type": "fur",
+      "value": "blue"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "chain"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "3D glasses"
+    },
+    {
+      "trait_type": "hat",
+      "value": "bandana"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "bubble gum"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

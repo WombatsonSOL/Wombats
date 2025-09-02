@@ -1,0 +1,39 @@
+{
+  "name": " #138",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/138.png",
+  "dna": "5dc42b652cb5319aaf317cb61f9dffc03fbc3f7e",
+  "edition": 138,
+  "date": 1708126612254,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "fur",
+      "value": "gray"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "wings"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "none"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

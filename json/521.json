@@ -1,0 +1,39 @@
+{
+  "name": " #521",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/521.png",
+  "dna": "78db2afeec027ef1d91191babd0a35e1ddb56e0f",
+  "edition": 521,
+  "date": 1708126619217,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "gray"
+    },
+    {
+      "trait_type": "fur",
+      "value": "burgundy"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "flannel tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "red cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "grass"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

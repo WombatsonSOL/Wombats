@@ -1,0 +1,39 @@
+{
+  "name": " #611",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/611.png",
+  "dna": "17ca785dbd44ba7f2246e920610f1761e4734b8f",
+  "edition": 611,
+  "date": 1708126613572,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "purple"
+    },
+    {
+      "trait_type": "fur",
+      "value": "cream"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "hawaiian tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "headphones"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "bubble gum"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

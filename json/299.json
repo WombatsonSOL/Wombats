@@ -1,0 +1,39 @@
+{
+  "name": " #299",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/299.png",
+  "dna": "cdd653f924963946776d35161b86cf4728840173",
+  "edition": 299,
+  "date": 1708126656207,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "gray"
+    },
+    {
+      "trait_type": "fur",
+      "value": "brown"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "wings"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "3D glasses"
+    },
+    {
+      "trait_type": "hat",
+      "value": "bandana"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

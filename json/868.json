@@ -1,0 +1,39 @@
+{
+  "name": " #868",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/868.png",
+  "dna": "dd2dcd3a0605871b8c416203010e13e511da741b",
+  "edition": 868,
+  "date": 1708126620960,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "orange"
+    },
+    {
+      "trait_type": "fur",
+      "value": "brown"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "chain"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "none"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

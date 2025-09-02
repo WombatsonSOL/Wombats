@@ -1,0 +1,39 @@
+{
+  "name": " #416",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/416.png",
+  "dna": "27a2747e3d47a5011005b2a06a3350335453a1ad",
+  "edition": 416,
+  "date": 1708126644175,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "gray"
+    },
+    {
+      "trait_type": "fur",
+      "value": "pink"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "chain"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "crown"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

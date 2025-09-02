@@ -1,0 +1,39 @@
+{
+  "name": " #900",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/900.png",
+  "dna": "93a0a8d3eed72afd16cf121034f07b4f091247ef",
+  "edition": 900,
+  "date": 1708126654659,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "white"
+    },
+    {
+      "trait_type": "fur",
+      "value": "blue"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "hawaiian tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "sailor cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "cig"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

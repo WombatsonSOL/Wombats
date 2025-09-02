@@ -1,0 +1,39 @@
+{
+  "name": " #458",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/458.png",
+  "dna": "b90b2fc1a964cc2b505819272fc83700ef15e09f",
+  "edition": 458,
+  "date": 1708126652080,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "orange"
+    },
+    {
+      "trait_type": "fur",
+      "value": "burgundy"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "suit"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "fast food cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "cig"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

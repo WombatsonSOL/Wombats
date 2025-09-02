@@ -1,0 +1,39 @@
+{
+  "name": " #993",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/993.png",
+  "dna": "6f887197561ac4c0042ffc7b51ed88a14bbd22ed",
+  "edition": 993,
+  "date": 1708126629631,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "white"
+    },
+    {
+      "trait_type": "fur",
+      "value": "brown"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "none"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "red"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "spectacles"
+    },
+    {
+      "trait_type": "hat",
+      "value": "none"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

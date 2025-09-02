@@ -1,0 +1,39 @@
+{
+  "name": " #64",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/64.png",
+  "dna": "74751a9402e9bbd96f6414c98e512aa5e5baabd7",
+  "edition": 64,
+  "date": 1708126629032,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "green"
+    },
+    {
+      "trait_type": "fur",
+      "value": "gray"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "flannel tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "red cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": " #332",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/332.png",
+  "dna": "380ce5f6f2ecc85188dd162ccdf33ed4d13219db",
+  "edition": 332,
+  "date": 1708126627653,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "fur",
+      "value": "pink"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "chain"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "cowboy hat"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

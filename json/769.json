@@ -1,0 +1,39 @@
+{
+  "name": " #769",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/769.png",
+  "dna": "e7d8c498f05f06f948f3516b8395e0f96d965839",
+  "edition": 769,
+  "date": 1708126612736,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "fur",
+      "value": "cream"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "none"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "sailor cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "bubble gum"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

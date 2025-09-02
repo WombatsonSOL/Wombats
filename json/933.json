@@ -1,0 +1,39 @@
+{
+  "name": " #933",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/933.png",
+  "dna": "ccf4d31d4a0c9db6eafe7d2be0fc1fd59d6c230f",
+  "edition": 933,
+  "date": 1708126632545,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "white"
+    },
+    {
+      "trait_type": "fur",
+      "value": "blue"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "none"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "cowboy hat"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

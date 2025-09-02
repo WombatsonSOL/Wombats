@@ -1,0 +1,39 @@
+{
+  "name": " #801",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/801.png",
+  "dna": "95177b64d78da1e9e7ed4c4f2c72e8f5d27e2c84",
+  "edition": 801,
+  "date": 1708126630695,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "green"
+    },
+    {
+      "trait_type": "fur",
+      "value": "brown"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "wings"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "sailor cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

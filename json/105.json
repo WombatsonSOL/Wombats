@@ -1,0 +1,39 @@
+{
+  "name": " #105",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/105.png",
+  "dna": "0869519ffa7a25e40b2f7c087abb0239fd3c152f",
+  "edition": 105,
+  "date": 1708126616830,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "fur",
+      "value": "brown"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "suit"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "bandana"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "grass"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

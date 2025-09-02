@@ -1,0 +1,39 @@
+{
+  "name": " #567",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/567.png",
+  "dna": "060e4042afaf10e8916060d5ca47889f751ff84b",
+  "edition": 567,
+  "date": 1708126640543,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "white"
+    },
+    {
+      "trait_type": "fur",
+      "value": "burgundy"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "chain"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "red"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "backwards cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "grass"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

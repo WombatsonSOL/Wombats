@@ -1,0 +1,39 @@
+{
+  "name": " #175",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/175.png",
+  "dna": "7bd3a3acb9a5bded53549fb8a5a3672ae51df00d",
+  "edition": 175,
+  "date": 1708126626908,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "gray"
+    },
+    {
+      "trait_type": "fur",
+      "value": "cream"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "none"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "backwards cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

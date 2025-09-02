@@ -1,0 +1,39 @@
+{
+  "name": " #753",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/753.png",
+  "dna": "037259232368192974d6dfe4fccef8a73e5e4fc2",
+  "edition": 753,
+  "date": 1708126618602,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "fur",
+      "value": "pink"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "W tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "bandana"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "grass"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

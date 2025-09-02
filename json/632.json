@@ -1,0 +1,39 @@
+{
+  "name": " #632",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/632.png",
+  "dna": "38deb38843f604b63586fd28e462bc9bc01784b6",
+  "edition": 632,
+  "date": 1708126608894,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "purple"
+    },
+    {
+      "trait_type": "fur",
+      "value": "gray"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "hawaiian tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "red"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "fast food cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

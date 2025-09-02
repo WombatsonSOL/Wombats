@@ -1,0 +1,39 @@
+{
+  "name": " #714",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/714.png",
+  "dna": "9d4491b030d5e906a1ca713ca710389e866d28b2",
+  "edition": 714,
+  "date": 1708126638821,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "fur",
+      "value": "burgundy"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "none"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "backwards cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

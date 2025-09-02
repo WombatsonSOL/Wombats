@@ -1,0 +1,39 @@
+{
+  "name": " #905",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/905.png",
+  "dna": "821c545764fa9b99dba63304a70cb6d65dec358d",
+  "edition": 905,
+  "date": 1708126617864,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "white"
+    },
+    {
+      "trait_type": "fur",
+      "value": "cream"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "chain"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "red"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "none"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": " #800",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/800.png",
+  "dna": "01b2a529b5eb1038802cc7cf68f5dab9da763f89",
+  "edition": 800,
+  "date": 1708126627186,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "fur",
+      "value": "burgundy"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "none"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "sailor cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

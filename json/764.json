@@ -1,0 +1,39 @@
+{
+  "name": " #764",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/764.png",
+  "dna": "649ed3946e2a2ef3fd59c91f7500945ba5de8cd6",
+  "edition": 764,
+  "date": 1708126651012,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "white"
+    },
+    {
+      "trait_type": "fur",
+      "value": "burgundy"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "flannel tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "red"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "none"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

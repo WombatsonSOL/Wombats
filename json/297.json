@@ -1,0 +1,39 @@
+{
+  "name": " #297",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/297.png",
+  "dna": "dc59d81b3f7fbc5fe3c83ccda7046041adb7ca9c",
+  "edition": 297,
+  "date": 1708126648314,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "gray"
+    },
+    {
+      "trait_type": "fur",
+      "value": "cream"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "none"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "fast food cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": " #334",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/334.png",
+  "dna": "bba0baefd58648f2734b6214b505a0a044899971",
+  "edition": 334,
+  "date": 1708126621053,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "fur",
+      "value": "gray"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "wings"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "sailor cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "bubble gum"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": " #627",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/627.png",
+  "dna": "e98fd703e54e972d1b922418a6dc25ff5e5497b3",
+  "edition": 627,
+  "date": 1708126626954,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "fur",
+      "value": "burgundy"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "hawaiian tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "red cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

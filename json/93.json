@@ -1,0 +1,39 @@
+{
+  "name": " #93",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/93.png",
+  "dna": "4500312c6d8cf1909481cd4d3e9673e24569636c",
+  "edition": 93,
+  "date": 1708126629723,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "fur",
+      "value": "burgundy"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "wings"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "fast food cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

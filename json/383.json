@@ -1,0 +1,39 @@
+{
+  "name": " #383",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/383.png",
+  "dna": "7b086d77c93651a4583c110d3a79ff50c883ad53",
+  "edition": 383,
+  "date": 1708126644066,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "white"
+    },
+    {
+      "trait_type": "fur",
+      "value": "cream"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "wings"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "fancy shades"
+    },
+    {
+      "trait_type": "hat",
+      "value": "headphones"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "cig"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

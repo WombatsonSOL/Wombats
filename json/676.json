@@ -1,0 +1,39 @@
+{
+  "name": " #676",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/676.png",
+  "dna": "46d4d48af191c74c1e575e62348b01332b50c5ff",
+  "edition": 676,
+  "date": 1708126650025,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "fur",
+      "value": "cream"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "suit"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "fast food cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

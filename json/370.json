@@ -1,0 +1,39 @@
+{
+  "name": " #370",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/370.png",
+  "dna": "eba3c62c06b450f08ed9c07f7ca98a73ad663ad1",
+  "edition": 370,
+  "date": 1708126640312,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "fur",
+      "value": "cream"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "none"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "bandana"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

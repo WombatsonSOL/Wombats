@@ -1,0 +1,39 @@
+{
+  "name": " #553",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/553.png",
+  "dna": "30539535fb5749786f13651c5ce75ffb204696ea",
+  "edition": 553,
+  "date": 1708126622362,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "purple"
+    },
+    {
+      "trait_type": "fur",
+      "value": "brown"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "wings"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "red cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "bubble gum"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

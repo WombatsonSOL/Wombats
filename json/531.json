@@ -1,0 +1,39 @@
+{
+  "name": " #531",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/531.png",
+  "dna": "60469e111a330a9b4be8259f1981a87d794058c7",
+  "edition": 531,
+  "date": 1708126625308,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "white"
+    },
+    {
+      "trait_type": "fur",
+      "value": "burgundy"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "flannel tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "spectacles"
+    },
+    {
+      "trait_type": "hat",
+      "value": "cowboy hat"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

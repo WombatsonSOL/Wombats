@@ -1,0 +1,39 @@
+{
+  "name": " #361",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/361.png",
+  "dna": "790eecf5a332146a54cb5b215c4ec37187ea7f68",
+  "edition": 361,
+  "date": 1708126640498,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "green"
+    },
+    {
+      "trait_type": "fur",
+      "value": "gray"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "flannel tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "none"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

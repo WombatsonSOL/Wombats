@@ -1,0 +1,39 @@
+{
+  "name": " #804",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/804.png",
+  "dna": "e8187bdfdac08cc86bdabdbf4db4b24d1292f691",
+  "edition": 804,
+  "date": 1708126612682,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "fur",
+      "value": "brown"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "flannel tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "headphones"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "cig"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

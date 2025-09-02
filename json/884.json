@@ -1,0 +1,39 @@
+{
+  "name": " #884",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/884.png",
+  "dna": "8de1bd788dc641a47e4b201261cd4aa9335a0d1b",
+  "edition": 884,
+  "date": 1708126615659,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "fur",
+      "value": "gray"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "suit"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "headphones"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "cig"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": " #478",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/478.png",
+  "dna": "6c796e1cb6e2ccb81bf80f59336c0b1c96aaf781",
+  "edition": 478,
+  "date": 1708126644318,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "white"
+    },
+    {
+      "trait_type": "fur",
+      "value": "burgundy"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "wings"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "cowboy hat"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "bubble gum"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

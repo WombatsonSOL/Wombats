@@ -1,0 +1,39 @@
+{
+  "name": " #509",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/509.png",
+  "dna": "22efd2e4643786ffc0d599e208a798bcd10a0381",
+  "edition": 509,
+  "date": 1708126630928,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "purple"
+    },
+    {
+      "trait_type": "fur",
+      "value": "gray"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "wings"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "backwards cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

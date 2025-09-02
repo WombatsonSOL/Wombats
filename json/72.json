@@ -1,0 +1,39 @@
+{
+  "name": " #72",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/72.png",
+  "dna": "6305b80315637f326ea8bbe1041b9b83da1f4fab",
+  "edition": 72,
+  "date": 1708126623771,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "green"
+    },
+    {
+      "trait_type": "fur",
+      "value": "burgundy"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "flannel tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "spectacles"
+    },
+    {
+      "trait_type": "hat",
+      "value": "headphones"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "grass"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

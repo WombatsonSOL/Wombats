@@ -1,0 +1,39 @@
+{
+  "name": " #428",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/428.png",
+  "dna": "0ce6e3f960e1f79769b06de11b94c47f6ccbb4ee",
+  "edition": 428,
+  "date": 1708126645441,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "fur",
+      "value": "cream"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "chain"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "red"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "none"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

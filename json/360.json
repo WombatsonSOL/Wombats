@@ -1,0 +1,39 @@
+{
+  "name": " #360",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/360.png",
+  "dna": "0e1d7e4027e060deb6cdb0f56154b00f462463af",
+  "edition": 360,
+  "date": 1708126655119,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "white"
+    },
+    {
+      "trait_type": "fur",
+      "value": "brown"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "suit"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "bandana"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "bubble gum"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

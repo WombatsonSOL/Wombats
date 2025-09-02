@@ -1,0 +1,39 @@
+{
+  "name": " #452",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/452.png",
+  "dna": "fa71eb805fe0e11f21524fd5826ec8c4c47e1eac",
+  "edition": 452,
+  "date": 1708126645303,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "white"
+    },
+    {
+      "trait_type": "fur",
+      "value": "pink"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "suit"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "red"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "fancy shades"
+    },
+    {
+      "trait_type": "hat",
+      "value": "red cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "grass"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

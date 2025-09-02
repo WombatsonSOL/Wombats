@@ -1,0 +1,39 @@
+{
+  "name": " #85",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/85.png",
+  "dna": "a1b2dc98c15d7aca3377a19b276196d67e352dee",
+  "edition": 85,
+  "date": 1708126640028,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "fur",
+      "value": "burgundy"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "hawaiian tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "bandana"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

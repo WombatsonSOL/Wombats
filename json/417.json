@@ -1,0 +1,39 @@
+{
+  "name": " #417",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/417.png",
+  "dna": "ef88388e7ea9313965e53c7e7fc9618f31820845",
+  "edition": 417,
+  "date": 1708126613902,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "gray"
+    },
+    {
+      "trait_type": "fur",
+      "value": "burgundy"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "flannel tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "sailor cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

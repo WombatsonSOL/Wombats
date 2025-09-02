@@ -1,0 +1,39 @@
+{
+  "name": " #529",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/529.png",
+  "dna": "7cdb3e9c69b34228d940148a4578e1884ff20c59",
+  "edition": 529,
+  "date": 1708126620453,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "fur",
+      "value": "burgundy"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "wings"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "crown"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "cig"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

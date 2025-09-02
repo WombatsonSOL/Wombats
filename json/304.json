@@ -1,0 +1,39 @@
+{
+  "name": " #304",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/304.png",
+  "dna": "92e7bf2560f0719a7778b6fe92a53cd93fdf479a",
+  "edition": 304,
+  "date": 1708126611739,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "fur",
+      "value": "cream"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "chain"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "red"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "red cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

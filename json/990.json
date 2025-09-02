@@ -1,0 +1,39 @@
+{
+  "name": " #990",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/990.png",
+  "dna": "3cd7cd0558257e25499ee9a7785ead2f17c55332",
+  "edition": 990,
+  "date": 1708126638221,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "fur",
+      "value": "burgundy"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "suit"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "red"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "cowboy hat"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

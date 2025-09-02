@@ -1,0 +1,39 @@
+{
+  "name": " #920",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/920.png",
+  "dna": "b10d507097a0f09394c520b7a151715cbf4ae2c9",
+  "edition": 920,
+  "date": 1708126630235,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "purple"
+    },
+    {
+      "trait_type": "fur",
+      "value": "pink"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "suit"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "fast food cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "bubble gum"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": " #794",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/794.png",
+  "dna": "ecf1d31ae2df22cd7f3ba154ed22d788bd463efc",
+  "edition": 794,
+  "date": 1708126627607,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "green"
+    },
+    {
+      "trait_type": "fur",
+      "value": "gray"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "flannel tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "backwards cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "bubble gum"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

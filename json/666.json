@@ -1,0 +1,39 @@
+{
+  "name": " #666",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/666.png",
+  "dna": "049d077c6cc22f384830123bfdbd9b0a5310acd7",
+  "edition": 666,
+  "date": 1708126636469,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "fur",
+      "value": "gray"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "suit"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "backwards cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

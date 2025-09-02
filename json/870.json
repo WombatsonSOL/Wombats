@@ -1,0 +1,39 @@
+{
+  "name": " #870",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/870.png",
+  "dna": "25b11afaab3fa83f92915f949e29cec79421c9cc",
+  "edition": 870,
+  "date": 1708126647666,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "fur",
+      "value": "burgundy"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "suit"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "3D glasses"
+    },
+    {
+      "trait_type": "hat",
+      "value": "halo"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

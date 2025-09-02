@@ -1,0 +1,39 @@
+{
+  "name": " #936",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/936.png",
+  "dna": "11a72cb728eb3e68e297009b702a7b6cec66afc3",
+  "edition": 936,
+  "date": 1708126638407,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "purple"
+    },
+    {
+      "trait_type": "fur",
+      "value": "pink"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "none"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "red"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "fancy shades"
+    },
+    {
+      "trait_type": "hat",
+      "value": "red cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

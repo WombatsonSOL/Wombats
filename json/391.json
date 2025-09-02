@@ -1,0 +1,39 @@
+{
+  "name": " #391",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/391.png",
+  "dna": "3fe84a65db93f3d455a1ff450532012fdc0b53ae",
+  "edition": 391,
+  "date": 1708126632453,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "fur",
+      "value": "brown"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "chain"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "cowboy hat"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "bubble gum"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": " #392",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/392.png",
+  "dna": "e7262b4ec65d0b31ec3b1128527b7d9ac4cec11b",
+  "edition": 392,
+  "date": 1708126655798,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "fur",
+      "value": "pink"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "hawaiian tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "red"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "red cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

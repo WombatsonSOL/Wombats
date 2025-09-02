@@ -1,0 +1,39 @@
+{
+  "name": " #120",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/120.png",
+  "dna": "ea677e157c3b77d975a96ccdec71de5ad5846a90",
+  "edition": 120,
+  "date": 1708126639377,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "fur",
+      "value": "brown"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "W tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "red cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

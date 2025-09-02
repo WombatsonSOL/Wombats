@@ -1,0 +1,39 @@
+{
+  "name": " #402",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/402.png",
+  "dna": "80a69fbf7faa6a18b45dc394f98ae2c309037dc7",
+  "edition": 402,
+  "date": 1708126614138,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "fur",
+      "value": "gray"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "wings"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "headphones"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "bubble gum"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

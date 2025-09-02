@@ -1,0 +1,39 @@
+{
+  "name": " #180",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/180.png",
+  "dna": "e1d365ecf81b021331ffe522fea0426d8e4bc18b",
+  "edition": 180,
+  "date": 1708126627140,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "green"
+    },
+    {
+      "trait_type": "fur",
+      "value": "blue"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "wings"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "backwards cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "grass"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

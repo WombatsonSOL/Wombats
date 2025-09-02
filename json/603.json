@@ -1,0 +1,39 @@
+{
+  "name": " #603",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/603.png",
+  "dna": "17024edd321e3cf9224c308e975c88ca98716545",
+  "edition": 603,
+  "date": 1708126636378,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "fur",
+      "value": "cream"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "wings"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "backwards cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "bubble gum"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

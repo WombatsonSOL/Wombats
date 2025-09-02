@@ -1,0 +1,39 @@
+{
+  "name": " #796",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/796.png",
+  "dna": "97d1db19c2838da41110b2362e0020cf19a24165",
+  "edition": 796,
+  "date": 1708126655754,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "purple"
+    },
+    {
+      "trait_type": "fur",
+      "value": "blue"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "wings"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "red cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

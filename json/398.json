@@ -1,0 +1,39 @@
+{
+  "name": " #398",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/398.png",
+  "dna": "108c1e1ef0dd39e90cab6f8f2aa761a8a86f00ca",
+  "edition": 398,
+  "date": 1708126653330,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "green"
+    },
+    {
+      "trait_type": "fur",
+      "value": "gray"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "suit"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "none"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

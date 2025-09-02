@@ -1,0 +1,39 @@
+{
+  "name": " #347",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/347.png",
+  "dna": "b01665d35d13cabca5c752cd2f5049d748aa9cd5",
+  "edition": 347,
+  "date": 1708126642704,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "white"
+    },
+    {
+      "trait_type": "fur",
+      "value": "brown"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "flannel tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "red cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": " #257",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/257.png",
+  "dna": "0b0afcece6c6f246d8a3a4d0b525ba0a3dbb43e9",
+  "edition": 257,
+  "date": 1708126639659,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "orange"
+    },
+    {
+      "trait_type": "fur",
+      "value": "gray"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "hawaiian tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "spectacles"
+    },
+    {
+      "trait_type": "hat",
+      "value": "sailor cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

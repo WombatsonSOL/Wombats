@@ -1,0 +1,39 @@
+{
+  "name": " #42",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/42.png",
+  "dna": "c3486502e72f8836effbf4d2f82ce01960714f49",
+  "edition": 42,
+  "date": 1708126630836,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "gray"
+    },
+    {
+      "trait_type": "fur",
+      "value": "pink"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "W tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "fancy shades"
+    },
+    {
+      "trait_type": "hat",
+      "value": "sailor cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

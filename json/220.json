@@ -1,0 +1,39 @@
+{
+  "name": " #220",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/220.png",
+  "dna": "dc94291aba13580da28e9b3ff21273dc179c0fff",
+  "edition": 220,
+  "date": 1708126611461,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "fur",
+      "value": "gray"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "hawaiian tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "cowboy hat"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "grass"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

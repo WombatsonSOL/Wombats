@@ -1,0 +1,39 @@
+{
+  "name": " #925",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/925.png",
+  "dna": "86482230a7e17e95a44522b5542faca9710cff3a",
+  "edition": 925,
+  "date": 1708126643869,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "fur",
+      "value": "cream"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "wings"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "backwards cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

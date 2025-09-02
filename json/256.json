@@ -1,0 +1,39 @@
+{
+  "name": " #256",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/256.png",
+  "dna": "c9a04d0d754619f93f92c1000339f115b5a4cc28",
+  "edition": 256,
+  "date": 1708126613524,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "purple"
+    },
+    {
+      "trait_type": "fur",
+      "value": "brown"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "hawaiian tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "fast food cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "grass"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

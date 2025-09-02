@@ -1,0 +1,39 @@
+{
+  "name": " #551",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/551.png",
+  "dna": "bc22428ca7d5ce416876cd3c2efa7508ac3c76fe",
+  "edition": 551,
+  "date": 1708126649519,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "purple"
+    },
+    {
+      "trait_type": "fur",
+      "value": "blue"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "suit"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "crown"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

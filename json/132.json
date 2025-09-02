@@ -1,0 +1,39 @@
+{
+  "name": " #132",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/132.png",
+  "dna": "992d1905d337204d36e49b2813fbdbdd21c3ec96",
+  "edition": 132,
+  "date": 1708126654935,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "fur",
+      "value": "cream"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "wings"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "backwards cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

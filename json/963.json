@@ -1,0 +1,39 @@
+{
+  "name": " #963",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/963.png",
+  "dna": "ce429afab7884af9e2a3d36c27d4a92ac87e51b6",
+  "edition": 963,
+  "date": 1708126612927,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "orange"
+    },
+    {
+      "trait_type": "fur",
+      "value": "pink"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "chain"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "none"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

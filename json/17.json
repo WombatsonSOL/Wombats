@@ -1,0 +1,39 @@
+{
+  "name": " #17",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/17.png",
+  "dna": "7d90df76f0b04602dd8a424b170f9882e764b8af",
+  "edition": 17,
+  "date": 1708126611272,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "fur",
+      "value": "burgundy"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "flannel tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "headphones"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "cig"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

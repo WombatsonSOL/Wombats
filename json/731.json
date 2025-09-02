@@ -1,0 +1,39 @@
+{
+  "name": " #731",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/731.png",
+  "dna": "e1bc1b9d5c790fd6c9ab293d12224f6759f6f0e7",
+  "edition": 731,
+  "date": 1708126628894,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "purple"
+    },
+    {
+      "trait_type": "fur",
+      "value": "pink"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "none"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "sailor cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

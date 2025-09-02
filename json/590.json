@@ -1,0 +1,39 @@
+{
+  "name": " #590",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/590.png",
+  "dna": "6d4a949510276097efdd1a6154b40a94cfaef5e0",
+  "edition": 590,
+  "date": 1708126654053,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "fur",
+      "value": "gray"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "none"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "none"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": " #411",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/411.png",
+  "dna": "8a6aa203fdf8b8b1758318458c0743264ff8631f",
+  "edition": 411,
+  "date": 1708126630371,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "fur",
+      "value": "brown"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "hawaiian tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "none"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "cig"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

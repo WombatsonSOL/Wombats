@@ -1,0 +1,39 @@
+{
+  "name": " #702",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/702.png",
+  "dna": "df2a1186d1b515deadd41b00fd60a161a4456010",
+  "edition": 702,
+  "date": 1708126655707,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "fur",
+      "value": "blue"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "flannel tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "red"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "headphones"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

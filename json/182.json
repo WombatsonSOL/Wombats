@@ -1,0 +1,39 @@
+{
+  "name": " #182",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/182.png",
+  "dna": "746e12d8361620f8f3879d518ffb5ba791749fc4",
+  "edition": 182,
+  "date": 1708126648819,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "gray"
+    },
+    {
+      "trait_type": "fur",
+      "value": "burgundy"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "hawaiian tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "red"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "fast food cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

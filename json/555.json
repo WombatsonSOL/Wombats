@@ -1,0 +1,39 @@
+{
+  "name": " #555",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/555.png",
+  "dna": "3e94c913b63c946477ac5dcf2304e58dcfa8e9c5",
+  "edition": 555,
+  "date": 1708126653468,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "purple"
+    },
+    {
+      "trait_type": "fur",
+      "value": "blue"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "hawaiian tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "red"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "fancy shades"
+    },
+    {
+      "trait_type": "hat",
+      "value": "backwards cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "cig"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

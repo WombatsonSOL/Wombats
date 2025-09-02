@@ -1,0 +1,39 @@
+{
+  "name": " #545",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/545.png",
+  "dna": "ad3116b9fc9b708c2b329cbb04239c7400c0c92f",
+  "edition": 545,
+  "date": 1708126642659,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "fur",
+      "value": "brown"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "wings"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "red"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "red cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

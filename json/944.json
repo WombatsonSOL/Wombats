@@ -1,0 +1,39 @@
+{
+  "name": " #944",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/944.png",
+  "dna": "5b69be215bde5ec19b8dfa70406965dbba547ed6",
+  "edition": 944,
+  "date": 1708126645028,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "orange"
+    },
+    {
+      "trait_type": "fur",
+      "value": "blue"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "wings"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "red cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "bubble gum"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

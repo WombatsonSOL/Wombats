@@ -1,0 +1,39 @@
+{
+  "name": " #854",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/854.png",
+  "dna": "8e4926051dac4366ece2504d2ee4344a5e86729b",
+  "edition": 854,
+  "date": 1708126611925,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "fur",
+      "value": "burgundy"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "suit"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "red"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "fast food cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "grass"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

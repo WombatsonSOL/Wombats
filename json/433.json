@@ -1,0 +1,39 @@
+{
+  "name": " #433",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/433.png",
+  "dna": "0d2aa3a999df324b0bd836f442fed29d15dabd58",
+  "edition": 433,
+  "date": 1708126656466,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "orange"
+    },
+    {
+      "trait_type": "fur",
+      "value": "brown"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "suit"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "bandana"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

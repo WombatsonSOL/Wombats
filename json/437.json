@@ -1,0 +1,39 @@
+{
+  "name": " #437",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/437.png",
+  "dna": "7677cbde83f6c384d03beb69ecce209d03f4be90",
+  "edition": 437,
+  "date": 1708126626457,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "gray"
+    },
+    {
+      "trait_type": "fur",
+      "value": "burgundy"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "flannel tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "red cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

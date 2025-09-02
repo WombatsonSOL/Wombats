@@ -1,0 +1,39 @@
+{
+  "name": " #230",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/230.png",
+  "dna": "17968d03f5ee1e32dc5de049ba79bd6a65ff3a6e",
+  "edition": 230,
+  "date": 1708126624363,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "fur",
+      "value": "pink"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "none"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "fast food cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

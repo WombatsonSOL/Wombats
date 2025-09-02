@@ -1,0 +1,39 @@
+{
+  "name": " #569",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/569.png",
+  "dna": "cd7b643d441cd35a6a264915aedcd2a697863ec3",
+  "edition": 569,
+  "date": 1708126633395,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "fur",
+      "value": "cream"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "flannel tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "red cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

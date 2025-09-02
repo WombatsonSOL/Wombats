@@ -1,0 +1,39 @@
+{
+  "name": " #386",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/386.png",
+  "dna": "ceb1e8ce459511a6a34b02d5e2e81bc396bec627",
+  "edition": 386,
+  "date": 1708126621330,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "green"
+    },
+    {
+      "trait_type": "fur",
+      "value": "cream"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "W tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "cowboy hat"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "grass"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

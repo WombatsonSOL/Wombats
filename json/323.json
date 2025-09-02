@@ -1,0 +1,39 @@
+{
+  "name": " #323",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/323.png",
+  "dna": "296a5693c0377f41d6c85bceded5118fc27aebe6",
+  "edition": 323,
+  "date": 1708126610843,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "fur",
+      "value": "brown"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "suit"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "red"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "sailor cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

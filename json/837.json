@@ -1,0 +1,39 @@
+{
+  "name": " #837",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/837.png",
+  "dna": "399bbaa1e72285ae38f3ec0b3a3ced268e86fc6d",
+  "edition": 837,
+  "date": 1708126617236,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "fur",
+      "value": "burgundy"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "suit"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "backwards cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

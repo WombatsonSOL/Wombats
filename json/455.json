@@ -1,0 +1,39 @@
+{
+  "name": " #455",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/455.png",
+  "dna": "94ab4746fe401b97a5f32193b7d631e9f9e872ad",
+  "edition": 455,
+  "date": 1708126635402,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "green"
+    },
+    {
+      "trait_type": "fur",
+      "value": "cream"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "suit"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "sailor cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "bubble gum"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

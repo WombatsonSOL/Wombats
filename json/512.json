@@ -1,0 +1,39 @@
+{
+  "name": " #512",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/512.png",
+  "dna": "e4bc450c60ca7687214f44d2717d6028fac9b4d9",
+  "edition": 512,
+  "date": 1708126615897,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "orange"
+    },
+    {
+      "trait_type": "fur",
+      "value": "gray"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "flannel tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "backwards cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

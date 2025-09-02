@@ -1,0 +1,39 @@
+{
+  "name": " #8",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/8.png",
+  "dna": "a4197f7910ef6c40b9089e1fe8ba7ec1740e07da",
+  "edition": 8,
+  "date": 1708126650676,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "white"
+    },
+    {
+      "trait_type": "fur",
+      "value": "brown"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "W tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "red"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "sailor cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "cig"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

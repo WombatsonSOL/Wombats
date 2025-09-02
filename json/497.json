@@ -1,0 +1,39 @@
+{
+  "name": " #497",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/497.png",
+  "dna": "9adbcbdd37217bcd2f2734ea835122c5574e7437",
+  "edition": 497,
+  "date": 1708126623371,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "fur",
+      "value": "cream"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "wings"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "red"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "backwards cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "cig"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

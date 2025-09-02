@@ -1,0 +1,39 @@
+{
+  "name": " #517",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/517.png",
+  "dna": "50111be8c185c83aab91801ab39e9a2a31ac1733",
+  "edition": 517,
+  "date": 1708126618955,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "gray"
+    },
+    {
+      "trait_type": "fur",
+      "value": "gray"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "suit"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "red"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "spectacles"
+    },
+    {
+      "trait_type": "hat",
+      "value": "sailor cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "grass"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

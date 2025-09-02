@@ -1,0 +1,39 @@
+{
+  "name": " #659",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/659.png",
+  "dna": "c9ea4e7ba2b4a5026fdde5344d9b81768d730f17",
+  "edition": 659,
+  "date": 1708126625378,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "green"
+    },
+    {
+      "trait_type": "fur",
+      "value": "burgundy"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "wings"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "red"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "bandana"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "grass"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

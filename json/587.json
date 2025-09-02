@@ -1,0 +1,39 @@
+{
+  "name": " #587",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/587.png",
+  "dna": "08de1c5877e03212f2c95f59a908f21ccb115d50",
+  "edition": 587,
+  "date": 1708126620124,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "white"
+    },
+    {
+      "trait_type": "fur",
+      "value": "blue"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "chain"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "3D glasses"
+    },
+    {
+      "trait_type": "hat",
+      "value": "bandana"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

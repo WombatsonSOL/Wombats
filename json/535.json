@@ -1,0 +1,39 @@
+{
+  "name": " #535",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/535.png",
+  "dna": "3175ae91b20f00b4d8e332bd12aba7bc6d84ad60",
+  "edition": 535,
+  "date": 1708126621655,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "white"
+    },
+    {
+      "trait_type": "fur",
+      "value": "burgundy"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "chain"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "headphones"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

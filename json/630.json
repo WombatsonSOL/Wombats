@@ -1,0 +1,39 @@
+{
+  "name": " #630",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/630.png",
+  "dna": "094234c03fc9b31d2dfb48296a765bc99e851ad7",
+  "edition": 630,
+  "date": 1708126623579,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "green"
+    },
+    {
+      "trait_type": "fur",
+      "value": "gray"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "hawaiian tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "3D glasses"
+    },
+    {
+      "trait_type": "hat",
+      "value": "backwards cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

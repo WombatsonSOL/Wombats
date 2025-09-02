@@ -1,0 +1,39 @@
+{
+  "name": " #30",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/30.png",
+  "dna": "2cf148c20ca29a5f86ba10334827d3e12ade1a36",
+  "edition": 30,
+  "date": 1708126613325,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "green"
+    },
+    {
+      "trait_type": "fur",
+      "value": "cream"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "chain"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "cowboy hat"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

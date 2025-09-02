@@ -1,0 +1,39 @@
+{
+  "name": " #964",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/964.png",
+  "dna": "828c3a6a3154e395333e75982aa5d294eadb85c0",
+  "edition": 964,
+  "date": 1708126614279,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "fur",
+      "value": "cream"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "wings"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "fast food cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "grass"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

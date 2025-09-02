@@ -1,0 +1,39 @@
+{
+  "name": " #453",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/453.png",
+  "dna": "44fae830f70cfa9ddae3e80a16288b0a5be13e1a",
+  "edition": 453,
+  "date": 1708126610057,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "green"
+    },
+    {
+      "trait_type": "fur",
+      "value": "burgundy"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "W tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "headphones"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

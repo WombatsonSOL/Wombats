@@ -1,0 +1,39 @@
+{
+  "name": " #378",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/378.png",
+  "dna": "acd90a5f706ec2178287b3ca46f6e01cbfbf41d2",
+  "edition": 378,
+  "date": 1708126640213,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "fur",
+      "value": "burgundy"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "flannel tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "none"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

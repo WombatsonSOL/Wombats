@@ -1,0 +1,39 @@
+{
+  "name": " #613",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/613.png",
+  "dna": "ee236c3e2ad2c790c480736a6df7755a0d0da42e",
+  "edition": 613,
+  "date": 1708126615706,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "green"
+    },
+    {
+      "trait_type": "fur",
+      "value": "brown"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "suit"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "red"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "spectacles"
+    },
+    {
+      "trait_type": "hat",
+      "value": "red cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

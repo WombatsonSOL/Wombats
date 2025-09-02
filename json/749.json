@@ -1,0 +1,39 @@
+{
+  "name": " #749",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/749.png",
+  "dna": "ab4854086eb36087b9bfeef7c976685648fbc1cd",
+  "edition": 749,
+  "date": 1708126615989,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "fur",
+      "value": "brown"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "hawaiian tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "sailor cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "grass"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

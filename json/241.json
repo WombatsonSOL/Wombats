@@ -1,0 +1,39 @@
+{
+  "name": " #241",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/241.png",
+  "dna": "6a6cc2ce3a62dfc913726a4f86eb24b7926ac0b3",
+  "edition": 241,
+  "date": 1708126647896,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "gray"
+    },
+    {
+      "trait_type": "fur",
+      "value": "pink"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "W tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "3D glasses"
+    },
+    {
+      "trait_type": "hat",
+      "value": "backwards cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

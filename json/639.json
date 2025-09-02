@@ -1,0 +1,39 @@
+{
+  "name": " #639",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/639.png",
+  "dna": "e37637a892ae65fb185fcfb24a784c671662895f",
+  "edition": 639,
+  "date": 1708126625262,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "white"
+    },
+    {
+      "trait_type": "fur",
+      "value": "burgundy"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "none"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "none"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "grass"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

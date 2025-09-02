@@ -1,0 +1,39 @@
+{
+  "name": " #549",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/549.png",
+  "dna": "f46f88f57fe65b4ab9fea8a3eb3c7406e4277028",
+  "edition": 549,
+  "date": 1708126625028,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "orange"
+    },
+    {
+      "trait_type": "fur",
+      "value": "cream"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "none"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "red"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "none"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

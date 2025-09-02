@@ -1,0 +1,39 @@
+{
+  "name": " #235",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/235.png",
+  "dna": "1f384d41ae2b6076178c45bfc425b349aee182a3",
+  "edition": 235,
+  "date": 1708126637149,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "fur",
+      "value": "cream"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "chain"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "none"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": " #41",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/41.png",
+  "dna": "d5bd10ab57e727de65e4172114174421c8206d52",
+  "edition": 41,
+  "date": 1708126635912,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "fur",
+      "value": "cream"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "wings"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "sailor cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

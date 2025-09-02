@@ -1,0 +1,39 @@
+{
+  "name": " #329",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/329.png",
+  "dna": "d7889d3d0efb282b8b9113fdfa59cda9fe7f60ee",
+  "edition": 329,
+  "date": 1708126620915,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "fur",
+      "value": "gray"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "hawaiian tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "backwards cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "cig"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

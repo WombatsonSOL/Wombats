@@ -1,0 +1,39 @@
+{
+  "name": " #540",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/540.png",
+  "dna": "c00de39aed9957844f9621de82a0209ecf933fe1",
+  "edition": 540,
+  "date": 1708126647081,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "white"
+    },
+    {
+      "trait_type": "fur",
+      "value": "pink"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "chain"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "sailor cap"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

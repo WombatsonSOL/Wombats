@@ -1,0 +1,39 @@
+{
+  "name": " #892",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/892.png",
+  "dna": "111fcbf5b8fd935fa1988b06a719e94eb63761b4",
+  "edition": 892,
+  "date": 1708126620267,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "white"
+    },
+    {
+      "trait_type": "fur",
+      "value": "brown"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "flannel tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "red"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "none"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
