@@ -30,7 +30,7 @@
 
 - **Total Supply**: 1,000,000,000 $WBT
 - **Team Treasury**: 2% (Reserved for early lottery boosts)
-- **Public**: 98% (Available on LetsBonk.fun)
+- **Public**: 98%
 - **Creator Fees**: All trading activity fees go to lottery pool
 
 ## Key Features
