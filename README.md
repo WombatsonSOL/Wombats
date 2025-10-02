@@ -57,9 +57,8 @@
 
 ```
 /
-├── images/          # Individual NFT artwork files
-├── metadata/        # JSON metadata for each NFT
-├── banner/          # Collection banner and promotional assets
+├── Collection Wombats/          # Individual NFT artwork files
+├── json/                        # JSON metadata for each NFT
 └── README.md        # This file
 ```
 
