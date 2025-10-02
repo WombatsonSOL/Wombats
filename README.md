@@ -9,7 +9,7 @@
 - **Total Supply**: 1,000 unique Wombat NFTs
 - **Blockchain**: Solana
 - **Token**: $WBT
-- **Launch Platform**: LetsBonk.fun
+- **Launch Platform**: Pump.fun
 
 ## Sample Collection
 
@@ -31,7 +31,7 @@
 - **Total Supply**: 1,000,000,000 $WBT
 - **Team Treasury**: 2% (Reserved for early lottery boosts)
 - **Public**: 98% (Available on LetsBonk.fun)
-- **Creator Fees**: 1.5% from all trading activity goes to lottery pool
+- **Creator Fees**: All trading activity fees go to lottery pool
 
 ## Key Features
 
@@ -51,7 +51,7 @@
 ## Links
 
 - **Twitter**: [@Wombats_on_SOL](https://x.com/Wombats_on_SOL)
-- **Launch Platform**: LetsBonk.fun (Coming Soon)
+- **Website**: [Wombats-sol](https://wombats-sol.com/)
 
 ## 📁 Repository Structure
 
