@@ -1,0 +1,47 @@
+{
+  "name": "Wombat #384",
+  "symbol": "WOMBAT",
+  "description": "A community-powered lottery protocol that lets you mint collectible Wombat NFTs. This is Wombat 384/1000",
+  "seller_fee_basis_points": 0,
+  "image": "https://ipfs.io/ipfs/bafybeihzrzrra362syj64f3pz4qrmxb6nhvf3nh2jw2bqycodphrf2oev4/384.png",
+  "external_url": "https://wombats-sol.com/",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "purple"
+    },
+    {
+      "trait_type": "fur",
+      "value": "burgundy"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "W tee"
+    },
+    {
+      "trait_type": "eye color",
+      "value": "red"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "hat",
+      "value": "bandana"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://ipfs.io/ipfs/bafybeihzrzrra362syj64f3pz4qrmxb6nhvf3nh2jw2bqycodphrf2oev4/384.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
